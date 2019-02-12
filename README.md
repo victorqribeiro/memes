@@ -1,12 +1,12 @@
 # Memes
 
-A PW-App memes, videos and gif app in JavaScript. (Reddit parser)
+A PWA app with memes, videos and gif app in JavaScript. (Reddit parser)
 
 Live version [here](https://victorribeiro.com/memes)
 
 # About
 
-A PW-App that parses [Reddit](https://www.reddit.com) for content, without ads or comments.
+A PWA app that parses [Reddit](https://www.reddit.com) for content, without ads or comments.
 Since the app runs on the client side, there's virtually no costs with servers (trafic and storage).
 
 # Hot to add subs
