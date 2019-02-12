@@ -1,6 +1,6 @@
 # Memes
 
-A PWA app with memes, videos and gif app in JavaScript. (Reddit parser)
+A PWA app with memes, videos and gifs in JavaScript. (Reddit parser)
 
 Live version [here](https://victorribeiro.com/memes)
 
