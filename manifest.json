@@ -1,0 +1,24 @@
+{
+  "name": "Memes",
+  "short_name": "Memes",
+  "description": "Memes, videos and gifs",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF",
+  "theme_color": "#FFF",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "density": 1
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": 1
+    }
+  ]
+}
