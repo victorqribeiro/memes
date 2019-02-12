@@ -9,7 +9,7 @@ Live version [here](https://victorribeiro.com/memes)
 A PWA app that parses [Reddit](https://www.reddit.com) for content, without ads or comments.
 Since the app runs on the client side, there's virtually no costs with servers (trafic and storage).
 
-# Hot to add subs
+# How to add subs
 
 Modify the *subs* variable on the main.js file to add or remove any sub you want.
 
