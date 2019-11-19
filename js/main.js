@@ -1,10 +1,15 @@
 window.onload = function(){
-
+/*
 let subs = [
 	"funny",
 	"dankmemes",
 	"videos",
 	"gifs"
+];
+*/
+let subs = [
+	"dankmemes",
+	"funny"
 ];
 
 let state = {
